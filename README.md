@@ -1,1 +1,11 @@
 # Location-Spoof-detection
+
+Steps for detection:
+
+
+1: Check latitude and longitude in google maps
+  i)Get the image from g-map and check whether it matches
+    with the image in location
+  ii)Formatting ->line space , commas,font,gaps between lines.
+ iii)lighting vs timing (for India)
+  iv)logos for gps
